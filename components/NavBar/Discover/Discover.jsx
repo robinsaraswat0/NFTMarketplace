@@ -23,7 +23,7 @@ const Discover = () => {
     },
     {
       name:"Account Setting",
-      link:"account-setting"
+      link:"account"
     },
     {
       name:"Upload NFT",
