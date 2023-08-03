@@ -1,5 +1,5 @@
 import React from "react";
-import Link from "next/Link";
+import Link from "next/link";
 
 //INTERNAL IMPORTS
 import Style from "./Discover.module.css";
@@ -31,7 +31,7 @@ const Discover = () => {
     },
     {
       name:"Connect Wallet",
-      link:"connect-wallet"
+      link:"connect"
     },
     {
       name:"Blog",
